@@ -20,7 +20,7 @@ How to Use
 
 	1.	Clone the repository:
 
-git clone https://github.com/yourusername/chat-bot-app.git
+git clone https://github.com/tiksh09/chat-bot-app.git
 
 
 	2.	Navigate to the project directory:
